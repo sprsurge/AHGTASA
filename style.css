@@ -1,0 +1,39 @@
+a{
+  color:darkorange;
+}
+li{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    background-color: black;
+      color:darkorange;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
+h2{
+  background-color: black;
+      color:darkorange;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+*{
+  background: black;
+}
+h1{
+  background-color: black;
+  color: darkorange;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+a{
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif; 
+}
+.grove{
+  color: green;
+}
+.balass{
+  color:darkmagenta;
+}
+.police{
+  color:darkblue;
+}
